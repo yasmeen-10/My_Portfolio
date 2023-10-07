@@ -1,7 +1,7 @@
 // resume link
 var resumeLink = document.getElementsByClassName("resume");
 resumeLink[0].addEventListener("click", function(){
-    window.open("https://drive.google.com/file/d/1TsGCEIrJaP8gWBipPPTZKTEcfLAk00eK/view","_blank");
+    window.open("https://drive.google.com/file/d/19FN8QmzFcjKFrwcMlwS6Zv43S5hMkPWc/view?usp=drive_link",_blank");
 });
 
 
